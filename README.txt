@@ -1,5 +1,3 @@
-README
-
 Course: cs400
 Semester: Spring 2020
 Project name: Milk's Friend
@@ -11,19 +9,12 @@ Team Members:
 4.Zhengjia Mao: ​zmao27@wisc.edu​, lec 002, xteam 214 
 5.Zuhua Cao:​zcao65@wisc.edu​, lec 002, xteam 202
 
-Which team members were on the same xteam together?
-No one.
-
-
-
-Other notes or comments to the grader:
-
 
 Project Goal:
 
 This project is to build a Farm manager program and help the farmers and cheese
-companies to analyze the milk weights so they could better learn the features of the milk
-selling.
+companies to analyze the milk weights so they could better learn the features of 
+the milk selling.
 
 
 Project Description:
