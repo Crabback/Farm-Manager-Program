@@ -1,4 +1,4 @@
-# Milk-Factory-Program
+# Farm-Manager-Program
 
 Project Goal:
 This project is to build a Farm manager program and help the farmers and cheese companies to analyze the milk weights so they could better learn the features of  the milk selling.
